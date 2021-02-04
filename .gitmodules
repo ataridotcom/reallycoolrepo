@@ -1,6 +1,0 @@
-[submodule "external/prettylogger"]
-	path = external/prettylogger
-	url = https://github.com/bailey/prettylogger
-[submodule "src/external/prettylogger"]
-	path = src/external/prettylogger
-	url = https://github.com/bailey/prettylogger
